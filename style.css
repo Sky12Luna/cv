@@ -103,6 +103,12 @@ h2{
 		margin-top: 5px;
 		margin-bottom: 5px;
 	}
+	.contenu p{
+		margin-left: 10px;
+	}
+	.contenu h2{
+		margin-left: 10px;
+	}
 }
 @media all and (max-device-width: 480px){
 	.titre{
@@ -140,5 +146,11 @@ h2{
 		margin-left: 5px;
 		margin-top: 5px;
 		margin-bottom: 5px;
+	}
+	.contenu p{
+		margin-left: 10px;
+	}
+	.contenu h2{
+		margin-left: 10px;
 	}
 } 
